@@ -1,4 +1,6 @@
 # Casino Simulation
+Jacob Branch
+
 
 * **Objective** - To create an casino simulation
 * **Purpose** - To gain familiarity with general object orientation and design principles
